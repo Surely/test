@@ -1,7 +1,7 @@
 {
   "name": "surely/test",
   "description": "description",
-  "minimum-stability": "stable",
+  "prefer-stable": true,
   "license": "proprietary",
   "authors": [
     {
