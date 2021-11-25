@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tools\\Rose\\": "src/Tools"
+      "Tools\\": "src/Tools"
     }
   }
 }
